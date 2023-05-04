@@ -1,2 +1,1 @@
-# homeworkone
-this is our first homework
+# Code Refactor Starter Code
